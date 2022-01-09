@@ -1,7 +1,7 @@
 package guru.qa;
 
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Book book = new Book();
         book.name = "Изучаем Java";
         book.totalPages = 720;
